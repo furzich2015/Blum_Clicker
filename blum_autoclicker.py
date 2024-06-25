@@ -81,6 +81,6 @@ while True:
         if has_mouse_moved(prev_mouse_pos): # check if the mouse moved
             prev_mouse_pos = pyautogui.position()
             mouse_stationary_start = time.time()
-        elif time.time() - mouse_stationary_start > 2:                                          # if the mouse has not moved for 2 seconds, click the restart button
+        elif time.time() - mouse_stationary_start > 2:                  
             click(window.left+restart_button_x, window.bottom+restart_button_y)
             mouse_stationary_start = time.time()
