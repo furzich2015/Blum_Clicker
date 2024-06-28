@@ -1,6 +1,6 @@
 > [!NOTE]
 > - Контакты: [Telegram](https://t.me/furzich) 
-> - Канал: [Telegram Channel]([https://t.me/shopalenka](https://github.com/furzich2015)
+> - Канал: [Telegram Channel](https://t.me/shopalenka](https://github.com/furzich2015)
 ---
 ## Как запустить  
 - Открыть BLUM через Telegram Desktop
